@@ -1,1 +1,1 @@
-# Duplicate Manager is free version of Duplicate Manager Pro. You can try to find all duplicates on your Mac but you can delete only one category of duplicate files. In Pro version all functions are avaliable.
+# Duplicate Manager is free version of Duplicate Manager Pro. You can try to find all duplicates on your Mac but you can delete only one category of duplicate files. In Pro version all features are avaliable.
